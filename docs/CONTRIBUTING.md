@@ -54,7 +54,7 @@ Of course we are happy to guide you if you encounter any difficulties when doing
 
 ### Knowledge required
 
-Although TEAMMATES uses many tools and technologies, you need not know all of them before you can contribute. The diagram below shows which technologies you need to learn to contribute in different roles.
+Although TEAMMATES uses many tools and technologies, you do not need to know all of them before you can contribute. The diagram below shows which technologies you need to learn to contribute in different roles.
 
 | Tool                 | Web page Developer | Front-end Developer | Test Developer | DevOps Developer | Back-end Developer |
 | :------------------- | ------------------ | ------------------- | -------------- | :--------------- | :----------------- |
